@@ -2,12 +2,12 @@ Name: AARON GEO BINOY
 EMAIL: aaronforsocial@gmail.com
 # hackit.alberta
 
-#Containing Files
-  sait.csv
-  searchfunction.py
-  ualberta.csv
-  ucalgary.csv
-  bareSearch.py
+#Containing Files:
+    sait.csv
+    searchfunction.py
+    ualberta.csv
+    ucalgary.csv
+    bareSearch.py
   
 NOTES:
   there are two search functions - both doing the same task but one better than the other.
